@@ -6,7 +6,7 @@ Using this template, storage account can be deployed.
      
 ->Create a resource group
 
-     az group create --name resourceGroupName --location "Central US"
+     az group create --name resourceGroupName --location "East US"
      
 ->Deploy template
 
